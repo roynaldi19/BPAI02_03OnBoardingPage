@@ -1,4 +1,4 @@
-package com.dicoding.picodiploma.onboardingpage
+package com.roynaldi19.dc4_02onboardingpage
 
 import org.junit.Test
 
